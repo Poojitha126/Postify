@@ -1,0 +1,13 @@
+
+{
+    "posts": [
+      { "id":1,"name": "Siva", "location": "Banglore", "likes": "64" ,"description":"Kick start your career","postImg":"./card.PNG"},
+      { "id":2,"name": "Neeraj", "location": "Pune", "likes": "30" ,"description":"Beautiful big sur","postImg":"./card2.JPG"},
+      {"id":3, "name": "Rahul", "location": "Hyderabad", "likes": "40" ,"description":"Off to Switzerland","postImg":"./card3.JPG"}
+     
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+  }
